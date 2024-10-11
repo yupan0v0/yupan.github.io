@@ -32,10 +32,6 @@ My research interests primarily focus on the modeling of speech processing syste
 **Software Engineering**: Software Testing, Analysis, and Repair
 
 
-# 💻 Internships
-- *2022.12 - *, Everest Team - Ximalaya, China.
-
-
 # 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -65,6 +61,10 @@ My research interests primarily focus on the modeling of speech processing syste
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> Hybridformer: Improving Squeezeformer with Hybrid Attention and NSR Mechanism. Y Yang, **Y Pan**, J Yin, J Han, L Ma, H Lu. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10096467)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">SMAC 2023</span> Exploring the power of cross-contextual large language model in mimic emotion prediction. G Yi, Y Yang, **Y Pan**, Y Cao, J Yao, X Lv, C Fan, Z Lv, J Tao, S Liang, H Lu. [[PDF]](https://dl.acm.org/doi/10.1145/3606039.3613109) 
+
+
+# 💻 Internships
+- *2022.12 - *, Everest Team - Ximalaya, China.
 
 
 # 🎖 Honors and Awards
