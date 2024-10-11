@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yu Pan (潘宇)"
-  avatar           : 
+  avatar           : "images/android-chrome-512x512.png"
   bio              : "Ph.D. Student @ Department of Information Science & Electrical Engineering, Kyushu University"
   location         : "Japan"
   employer         :
