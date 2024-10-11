@@ -83,5 +83,3 @@ My research interests primarily focus on the modeling of speech processing syste
 
 
 Thanks for the template of [acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=yj7G4uPjZTwu7X50zzhTW14ybx6QOClZ1fWK16GJDpU&cl=ffffff&w=a"></script>
