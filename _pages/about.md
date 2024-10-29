@@ -54,7 +54,7 @@ My research interests primarily focus on the modeling of speech processing syste
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> PromptVC: Flexible stylistic voice conversion in latent space driven by natural language prompts. J Yao, Y Yang, Y Lei, Z Ning, Y Hu, **Y Pan**, J Yin, H Zhou, H Lu, L Xie. [[PDF]](https://arxiv.org/pdf/2309.09262)  [[DemoPage]](https://yaoxunji.github.io/prompt_vc/)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">DCC 2024</span> Initialization Seeds Facilitating Neural Network Quantization. W Fei, L Ding, Y Pan, W Dai, C Li, J Zou, H Xiong. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10533810)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">DCC 2024</span> Initialization Seeds Facilitating Neural Network Quantization. W Fei, L Ding, **Y Pan**, W Dai, C Li, J Zou, H Xiong. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10533810)
 
 
 2023:
@@ -84,4 +84,4 @@ My research interests primarily focus on the modeling of speech processing syste
 
 Thanks for the template of [acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5n0m6rtnvin&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5tmefxksc5f&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
