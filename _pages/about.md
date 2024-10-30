@@ -74,12 +74,12 @@ My research interests primarily focus on the modeling of speech processing syste
 - *2020.12* Xiaomi Scholarship, BIT, CHINA. 
 - *2020.10* Outstanding Graduate Student, BIT, CHINA.
 - *2019.12* Huawei Scholarship, BIT, CHINA.
+- *2019.10* Outstanding Graduate Student, BIT, CHINA.
 - *2018.06* Excellent Graduate, NEU, CHINA. 
 - *2017.12* Outstanding Undergraduate Student, NEU, CHINA.
 - *2017.12* Outstanding Undergraduate Student, NEU, CHINA.
 - *2017.12* Caiguanshen Scholarship, NEU, CHINA.
 - *2016.12* Outstanding Student Leader, NEU, CHINA.
-- *2016.12* Caiguanshen Scholarship, NEU, CHINA.
 
 
 Thanks for the template of [acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
