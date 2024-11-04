@@ -25,9 +25,9 @@ My research interests primarily focus on the modeling of speech processing syste
 
 
 # 🔍 Research Area
-**Speech Processing**: Speech Generation, Speech Recognition, Speech Emotion Generation
+**Speech Processing**: Speech Recognition, Speech Emotion Generation, Voice Conversion, Speech Generation
 
-**Large Language Models**: Speech LLMs, Speech Tokenizer, Diffusion Models
+**Large Language Models**: Speech Tokenizer, Speech LLMs, Diffusion Models
 
 **Software Engineering**: Software Testing, Analysis, and Repair
 
