@@ -94,19 +94,6 @@ MSAC: Multiple Speech Attribute Control Method for Reliable Speech Emotion Recog
 - *2022.12 - *, Everest Team - Ximalaya, China.
 -->
 
-# 🎖 Honors and Awards
-- *2024.06* K2-SPRING Scholarship, Kyushu University, JAPAN. 
-- *2023.10* The 1st place winner in the 4th Multimodal Sentiment Analysis Challenge (MuSe) Mimic Sub-challenge 2023 @ ACM MM Workshop. 
-- *2022.06* Chinese Scholarship Council, CHINA. 
-- *2020.12* Xiaomi Scholarship, BIT, CHINA. 
-- *2020.10* Outstanding Graduate Student, BIT, CHINA.
-<!-- *2019.12* Huawei Scholarship, BIT, CHINA. -->
-- *2019.10* Outstanding Graduate Student, BIT, CHINA.
-- *2018.06* Excellent Graduate, NEU, CHINA. 
-- *2017.12* Outstanding Undergraduate Student, NEU, CHINA.
-- *2017.12* Outstanding Undergraduate Student, NEU, CHINA.
-- *2017.12* Caiguanshen Scholarship, NEU, CHINA.
-- *2016.12* Outstanding Student Leader, NEU, CHINA.
 
 
 Thanks for the template of [acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
