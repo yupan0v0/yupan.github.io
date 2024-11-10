@@ -32,6 +32,7 @@ My research interests primarily focus on the modeling of speech processing syste
 **Software Engineering**: Software Testing, Analysis, and Repair
 
 
+
 # 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -46,8 +47,33 @@ My research interests primarily focus on the modeling of speech processing syste
 </div>
 </div> -->
 
-2024:
+Pre-print:
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2024</span> CTEFM-VC: Zero-Shot Voice Conversion Based on Content-Aware Timbre Ensemble Modeling and Flow Matching. **Y Pan**, Y Yang, J Yao, J Ye, H Zhou, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2411.02026)
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2024</span> 
+Takin-VC: Zero-shot Voice Conversion via Jointly Hybrid Content and Memory-Augmented Context-Aware Timbre Modeling. Y Yang, **Y Pan**, J Yao, X Zhang, J Ye, H Zhou, L Xie, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2410.01350)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2024</span> 
+PromptCodec: High-Fidelity Neural Speech Codec using Disentangled Representation Learning based Adaptive Feature-aware Prompt Encoders. **Y Pan**, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2404.02702)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2024</span> 
+DPGAN: A Dual-Path Generative Adversarial Network for Missing Data Imputation in Graphs. X Zheng, Y Wu, **Y Pan**, W Lin, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2404.17164)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2024</span> 
+Musa: Multi-lingual speaker anonymization via serial disentanglement. J Yao, Q Wang, P Guo, Z Ning, Y Yang, **Y Pan**, L Xie. [[PDF]](https://arxiv.org/pdf/2407.11629)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2023</span> 
+MSAC: Multiple Speech Attribute Control Method for Reliable Speech Emotion Recognition. **Y Pan**, Y Yang, Y Huang, J Yin, Y Hu, H Lu, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2308.04025)
+
+
+
+Technical report:
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2024</span> 
+Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models. [[PDF]](https://arxiv.org/pdf/2409.12139)
+
+
+
+2024:
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE SLT 2024</span> GMP-TL: Gender-augmented Multi-scale Pseudo-label Enhanced Transfer Learning for Speech Emotion Recognition. **Y Pan**, Y Yang, Y Huang, T Jin, J Yin, Y Hu, H Lu, L Ma, J Zhao. [[PDF]](https://arxiv.org/abs/2405.02151) 
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Accurate Speech Emotion Recognition. **Y Pan**, Y Hu, Y Yang, W Fei, J Yao, H Lu, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2306.07848) 
@@ -63,9 +89,10 @@ My research interests primarily focus on the modeling of speech processing syste
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">SMAC 2023</span> Exploring the power of cross-contextual large language model in mimic emotion prediction. G Yi, Y Yang, **Y Pan**, Y Cao, J Yao, X Lv, C Fan, Z Lv, J Tao, S Liang, H Lu. [[PDF]](https://dl.acm.org/doi/10.1145/3606039.3613109) 
 
 
+<!--
 # 💻 Internships
 - *2022.12 - *, Everest Team - Ximalaya, China.
-
+-->
 
 # 🎖 Honors and Awards
 - *2024.06* K2-SPRING Scholarship, Kyushu University, JAPAN. 
@@ -73,7 +100,9 @@ My research interests primarily focus on the modeling of speech processing syste
 - *2022.06* Chinese Scholarship Council, CHINA. 
 - *2020.12* Xiaomi Scholarship, BIT, CHINA. 
 - *2020.10* Outstanding Graduate Student, BIT, CHINA.
-- *2019.12* Huawei Scholarship, BIT, CHINA.
+<!-- 
+- *2019.12* Huawei Scholarship, BIT, CHINA. 
+-->
 - *2019.10* Outstanding Graduate Student, BIT, CHINA.
 - *2018.06* Excellent Graduate, NEU, CHINA. 
 - *2017.12* Outstanding Undergraduate Student, NEU, CHINA.
