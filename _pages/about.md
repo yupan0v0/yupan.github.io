@@ -94,6 +94,9 @@ MSAC: Multiple Speech Attribute Control Method for Reliable Speech Emotion Recog
 - *2022.12 - *, Everest Team - Ximalaya, China.
 -->
 
+# 💻 Competitions
+*2023.10* The 1st place winner in the 4th Multimodal Sentiment Analysis Challenge and Workshop (MuSe) Mimic Sub-challenge 2023 @ ACM MM. 
+
 
 
 Thanks for the template of [acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
