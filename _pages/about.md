@@ -101,4 +101,4 @@ MSAC: Multiple Speech Attribute Control Method for Reliable Speech Emotion Recog
 
 Thanks for the template of [acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=m3bxB5AtfyzWsAE07t3xgXcTY-tytE-8I-82gax8q4Y"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=m3bxB5AtfyzWsAE07t3xgXcTY-tytE-8I-82gax8q4Y&cl=ffffff&w=a"></script>
