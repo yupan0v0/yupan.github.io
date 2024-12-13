@@ -50,6 +50,8 @@ My research interests primarily focus on the modeling of speech processing syste
 
 
 Published:
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2025</span> StableVC: Style Controllable Zero-Shot Voice Conversion with Conditional Flow Matching. J Yao, Y Yang, **Y Pan**, Z Ning, J Ye, H Zhou, L Xie. [[PDF]](https://arxiv.org/abs/2412.04724)
+
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE SLT 2024</span> GMP-TL: Gender-augmented Multi-scale Pseudo-label Enhanced Transfer Learning for Speech Emotion Recognition. **Y Pan<sup>⭐</sup>**, Y Yang<sup>⭐</sup>, Y Huang, T Jin, J Yin, Y Hu, H Lu, L Ma, J Zhao. [[PDF]](https://arxiv.org/abs/2405.02151) 
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Accurate Speech Emotion Recognition. **Y Pan**, Y Hu, Y Yang, W Fei, J Yao, H Lu, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2306.07848) 
