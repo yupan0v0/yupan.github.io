@@ -64,6 +64,8 @@ Published:
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">SMAC 2023</span> Exploring the power of cross-contextual large language model in mimic emotion prediction. G Yi, Y Yang, **Y Pan**, Y Cao, J Yao, X Lv, C Fan, Z Lv, J Tao, S Liang, H Lu. [[PDF]](https://dl.acm.org/doi/10.1145/3606039.3613109) 
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP</span> 
+Musa: Multi-lingual speaker anonymization via serial disentanglement. J Yao, Q Wang, P Guo, Z Ning, Y Yang, **Y Pan**, L Xie. [[PDF]](https://arxiv.org/pdf/2407.11629)
 
 
 Technical report:
@@ -83,8 +85,6 @@ PromptCodec: High-Fidelity Neural Speech Codec using Disentangled Representation
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2024</span> 
 DPGAN: A Dual-Path Generative Adversarial Network for Missing Data Imputation in Graphs. X Zheng, Y Wu, **Y Pan**, W Lin, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2404.17164)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2024</span> 
-Musa: Multi-lingual speaker anonymization via serial disentanglement. J Yao, Q Wang, P Guo, Z Ning, Y Yang, **Y Pan**, L Xie. [[PDF]](https://arxiv.org/pdf/2407.11629)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2023</span> 
 MSAC: Multiple Speech Attribute Control Method for Reliable Speech Emotion Recognition. **Y Pan**, Y Yang, Y Huang, J Yin, Y Hu, H Lu, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2308.04025)
