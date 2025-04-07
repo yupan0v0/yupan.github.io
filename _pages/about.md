@@ -49,31 +49,26 @@ My research interests primarily focus on the modeling of speech processing syste
 
 
 
-Published:
+2025:
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2025</span> StableVC: Style Controllable Zero-Shot Voice Conversion with Conditional Flow Matching. J Yao, Y Yang, **Y Pan**, Z Ning, J Ye, H Zhou, L Xie. [[PDF]](https://arxiv.org/abs/2412.04724)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE SLT 2024</span> GMP-TL: Gender-augmented Multi-scale Pseudo-label Enhanced Transfer Learning for Speech Emotion Recognition. **Y Pan<sup>⭐</sup>**, Y Yang<sup>⭐</sup>, Y Huang, T Jin, J Yin, Y Hu, H Lu, L Ma, J Zhao. [[PDF]](https://arxiv.org/abs/2405.02151) 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Accurate Speech Emotion Recognition. **Y Pan**, Y Hu, Y Yang, W Fei, J Yao, H Lu, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2306.07848) 
+
+2024:
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Accurate Speech Emotion Recognition. **Y Pan**, Y Hu, Y Yang, W Fei, J Yao, H Lu, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2306.07848)
+  
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE SLT 2024</span> GMP-TL: Gender-augmented Multi-scale Pseudo-label Enhanced Transfer Learning for Speech Emotion Recognition. **Y Pan<sup>⭐</sup>**, Y Yang<sup>⭐</sup>, Y Huang, T Jin, J Yin, Y Hu, H Lu, L Ma, J Zhao. [[PDF]](https://arxiv.org/abs/2405.02151) 
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> PromptVC: Flexible stylistic voice conversion in latent space driven by natural language prompts. J Yao, Y Yang, Y Lei, Z Ning, Y Hu, **Y Pan**, J Yin, H Zhou, H Lu, L Xie. [[PDF]](https://arxiv.org/pdf/2309.09262)  [[DemoPage]](https://yaoxunji.github.io/prompt_vc/)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">DCC 2024</span> Initialization Seeds Facilitating Neural Network Quantization. W Fei, L Ding, **Y Pan**, W Dai, C Li, J Zou, H Xiong. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10533810)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> Hybridformer: Improving Squeezeformer with Hybrid Attention and NSR Mechanism. Y Yang<sup>⭐</sup>, **Y Pan**<sup>⭐</sup>, J Yin, J Han, L Ma, H Lu. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10096467)
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">SMAC 2023</span> Exploring the power of cross-contextual large language model in mimic emotion prediction. G Yi, Y Yang, **Y Pan**, Y Cao, J Yao, X Lv, C Fan, Z Lv, J Tao, S Liang, H Lu. [[PDF]](https://dl.acm.org/doi/10.1145/3606039.3613109) 
-
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP</span> 
 Musa: Multi-lingual speaker anonymization via serial disentanglement. J Yao, Q Wang, P Guo, Z Ning, Y Yang, **Y Pan**, L Xie. [[PDF]](https://arxiv.org/pdf/2407.11629)
 
-
-Technical report:
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2024</span> 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2024 (Technical report)</span> 
 Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models. [[PDF]](https://arxiv.org/pdf/2409.12139)
 
-
-Pre-print:
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2024</span> CTEFM-VC: Zero-Shot Voice Conversion Based on Content-Aware Timbre Ensemble Modeling and Flow Matching. **Y Pan**, Y Yang, J Yao, J Ye, H Zhou, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2411.02026)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2024</span> 
@@ -86,8 +81,16 @@ PromptCodec: High-Fidelity Neural Speech Codec using Disentangled Representation
 DPGAN: A Dual-Path Generative Adversarial Network for Missing Data Imputation in Graphs. X Zheng, Y Wu, **Y Pan**, W Lin, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2404.17164)
 
 
+
+2023:
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> Hybridformer: Improving Squeezeformer with Hybrid Attention and NSR Mechanism. Y Yang<sup>⭐</sup>, **Y Pan**<sup>⭐</sup>, J Yin, J Han, L Ma, H Lu. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10096467)
+  
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">SMAC 2023</span> Exploring the power of cross-contextual large language model in mimic emotion prediction. G Yi, Y Yang, **Y Pan**, Y Cao, J Yao, X Lv, C Fan, Z Lv, J Tao, S Liang, H Lu. [[PDF]](https://dl.acm.org/doi/10.1145/3606039.3613109) 
+
+
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2023</span> 
 MSAC: Multiple Speech Attribute Control Method for Reliable Speech Emotion Recognition. **Y Pan**, Y Yang, Y Huang, J Yin, Y Hu, H Lu, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2308.04025)
+
 
 
 
