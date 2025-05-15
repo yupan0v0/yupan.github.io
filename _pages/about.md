@@ -50,6 +50,9 @@ My research interests primarily focus on the modeling of speech processing syste
 
 
 2025:
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025</span> 
+Takin-VC: Zero-shot Voice Conversion via Jointly Hybrid Content and Memory-Augmented Context-Aware Timbre Modeling. Y Yang<sup>⭐</sup>, **Y Pan<sup>⭐</sup>**, J Yao<sup>⭐</sup>, X Zhang<sup>⭐</sup>, J Ye, H Zhou, L Xie, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2410.01350)
+
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2025</span> StableVC: Style Controllable Zero-Shot Voice Conversion with Conditional Flow Matching. J Yao, Y Yang, **Y Pan**, Z Ning, J Ye, H Zhou, L Xie. [[PDF]](https://arxiv.org/abs/2412.04724)
 
 
@@ -70,9 +73,6 @@ Musa: Multi-lingual speaker anonymization via serial disentanglement. J Yao, Q W
 Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models. [[PDF]](https://arxiv.org/pdf/2409.12139)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2024</span> CTEFM-VC: Zero-Shot Voice Conversion Based on Content-Aware Timbre Ensemble Modeling and Flow Matching. **Y Pan**, Y Yang, J Yao, J Ye, H Zhou, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2411.02026)
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2024</span> 
-Takin-VC: Zero-shot Voice Conversion via Jointly Hybrid Content and Memory-Augmented Context-Aware Timbre Modeling. Y Yang<sup>⭐</sup>, **Y Pan<sup>⭐</sup>**, J Yao<sup>⭐</sup>, X Zhang<sup>⭐</sup>, J Ye, H Zhou, L Xie, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2410.01350)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2024</span> 
 PromptCodec: High-Fidelity Neural Speech Codec using Disentangled Representation Learning based Adaptive Feature-aware Prompt Encoders. **Y Pan**, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2404.02702)
