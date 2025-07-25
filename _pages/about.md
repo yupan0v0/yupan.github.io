@@ -23,13 +23,29 @@ I am currently a Ph.D. student in the School of Information Science and Electric
 
 My research interests primarily focus on the modeling of speech processing systems, including speech synthesis, voice conversion, speech recognition, speech emotion recognition. Besides, I am also interested in the Software Engineering (SE) support for complex AI-based systems (quality assurance for AI).
 
-
+<!--
 # 🔍 Research Area
 **Speech Processing**: Speech Recognition, Speech Emotion Generation, Voice Conversion, Speech Generation
 
 **Large Language Models**: Speech Tokenizer, Speech LLMs, Diffusion Models
 
 **Software Engineering**: Software Testing, Analysis, and Repair
+ -->
+
+# 🔍 Research Area
+**SpeechLM/Speech-to-Speech Translation**: [arxiv'25](https://arxiv.org/abs/2506.11160)
+
+**Emotional Speech Synthesis**: [INTERSPEECH'25](https://arxiv.org/pdf/2505.13805)
+
+**Speech Synthesis**: [ACL'25](https://arxiv.org/pdf/2410.01350), [AAAI'25](https://arxiv.org/abs/2412.04724), [ICASSP'24](https://arxiv.org/pdf/2309.09262), [arxiv'24](https://arxiv.org/abs/2411.02026)
+
+**SpeechTokenizer**: [arxiv'24](https://arxiv.org/pdf/2404.02702)
+
+**Speech Emotion Recognition**: [ICASSP'24](https://arxiv.org/pdf/2306.07848), [SLT'24](https://arxiv.org/abs/2405.02151), [ACM MM Workshop'23](https://dl.acm.org/doi/10.1145/3606039.3613109), [arxiv'23](https://arxiv.org/pdf/2308.04025)
+
+**Data Compression**: [DCC'24](https://ieeexplore.ieee.org/abstract/document/10533810)
+
+**Speech Recognition**: [ICASSP'23](https://ieeexplore.ieee.org/abstract/document/10096467)
 
 
 
@@ -50,6 +66,10 @@ My research interests primarily focus on the modeling of speech processing syste
 
 
 2025:
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2025</span> 
+S2ST-Omni: An Efficient Multilingual Speech-to-Speech Translation Framework via Seamless Speech-Text Alignment and Progressive Fine-tuning. **Y Pan**, Yuguang Yang, L Ma, J Zhao. [[PDF]](https://arxiv.org/abs/2506.11160)
+
+
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">InterSpeech 2025 (Oral)</span> ClapFM-EVC: High-Fidelity and Flexible Emotional Voice Conversion with Dual Control from Natural Language and Speech. **Y Pan**, Y Hu, Y Yang, J Yao, J Ye, H Zhou, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2505.13805)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 (Oral)</span> 
