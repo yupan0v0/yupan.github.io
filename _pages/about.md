@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- Yu Pan -->
-I am currently a Ph.D. student in the School of Information Science and Electrical Engineering at Kyushu University, working under the supervision of Prof. [Jianjun Zhao](https://stap.ait.kyushu-u.ac.jp/~zhao/index.html) and Prof. [Lei Ma](https://www.malei.org/). Prior to this, I received my Master's degree from Beijing Institute of Technology and Bachelor's degree from Northeastern University in China.
+I am currently a second-year Ph.D. student in the School of Information Science and Electrical Engineering at Kyushu University, working under the supervision of Prof. [Jianjun Zhao](https://stap.ait.kyushu-u.ac.jp/~zhao/index.html) and Prof. [Lei Ma](https://www.malei.org/). Prior to this, I received my Master's degree from Beijing Institute of Technology and Bachelor's degree from Northeastern University in China.
 
 
-My research interests primarily focus on the modeling of speech processing systems, including speech synthesis, voice conversion, speech recognition, speech emotion recognition. Besides, I am also interested in the Software Engineering (SE) support for complex AI-based systems (quality assurance for AI).
+My research interests primarily focus on the speech processing systems. Besides, I am also interested in the Software Engineering (SE) support for complex AI-based systems (quality assurance for AI).
 
 <!--
 # 🔍 Research Area
