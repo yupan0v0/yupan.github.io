@@ -37,7 +37,7 @@ My research interests primarily focus on the modeling of speech processing syste
 
 **Emotional Speech Synthesis**: [INTERSPEECH'25](https://arxiv.org/pdf/2505.13805)
 
-**Speech Synthesis**: [ACL'25](https://arxiv.org/pdf/2410.01350), [AAAI'25](https://arxiv.org/abs/2412.04724), [ICASSP'24](https://arxiv.org/pdf/2309.09262), [arxiv'24](https://arxiv.org/abs/2411.02026)
+**Speech Synthesis**: [ACL'25](https://arxiv.org/pdf/2410.01350), [AAAI'25](https://arxiv.org/abs/2412.04724), [ICASSP'24](https://arxiv.org/pdf/2309.09262), [arxiv'24](https://arxiv.org/abs/2411.02026), [arxiv'24](https://arxiv.org/pdf/2409.12139)
 
 **SpeechTokenizer**: [arxiv'24](https://arxiv.org/pdf/2404.02702)
 
