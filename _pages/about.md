@@ -33,7 +33,7 @@ My research interests primarily focus on the speech processing systems. Besides,
  -->
 
 # 🔍 Research Area
-**SpeechLM/Speech-to-Speech Translation**: [arxiv'25](https://arxiv.org/abs/2506.11160)
+**SpeechLLM/Speech-to-Speech Translation**: [arxiv'25](https://arxiv.org/abs/2506.11160)
 
 **Emotional Speech Synthesis**: [INTERSPEECH'25](https://arxiv.org/pdf/2505.13805)
 
