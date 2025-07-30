@@ -37,7 +37,7 @@ My research interests primarily focus on the speech processing systems. Besides,
 
 **Emotional Speech Synthesis**: [INTERSPEECH'25](https://arxiv.org/pdf/2505.13805)
 
-**Speech Synthesis**: [ACL'25](https://arxiv.org/pdf/2410.01350), [AAAI'25](https://arxiv.org/abs/2412.04724), [ICASSP'24](https://arxiv.org/pdf/2309.09262), [arxiv'24](https://arxiv.org/abs/2411.02026), [arxiv'24](https://arxiv.org/pdf/2409.12139)
+**Speech Synthesis**: [ACL'25](https://aclanthology.org/2025.acl-long.87.pdf), [AAAI'25](https://arxiv.org/abs/2412.04724), [ICASSP'24](https://arxiv.org/pdf/2309.09262), [arxiv'24](https://arxiv.org/abs/2411.02026), [arxiv'24](https://arxiv.org/pdf/2409.12139)
 
 **SpeechTokenizer**: [arxiv'24](https://arxiv.org/pdf/2404.02702)
 
@@ -73,7 +73,7 @@ S2ST-Omni: An Efficient Multilingual Speech-to-Speech Translation Framework via 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">InterSpeech 2025 (Oral)</span> ClapFM-EVC: High-Fidelity and Flexible Emotional Voice Conversion with Dual Control from Natural Language and Speech. **Y Pan**, Y Hu, Y Yang, J Yao, J Ye, H Zhou, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2505.13805)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 (Oral)</span> 
-Takin-VC: Expressive Zero-Shot Voice Conversion via Adaptive Hybrid Content Encoding and Enhanced Timbre Modeling. Y Yang<sup>⭐</sup>, **Y Pan<sup>⭐</sup>**, J Yao<sup>⭐</sup>, X Zhang<sup>⭐</sup>, J Ye, H Zhou, L Xie, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2410.01350)
+Takin-VC: Expressive Zero-Shot Voice Conversion via Adaptive Hybrid Content Encoding and Enhanced Timbre Modeling. Y Yang<sup>⭐</sup>, **Y Pan<sup>⭐</sup>**, J Yao<sup>⭐</sup>, X Zhang<sup>⭐</sup>, J Ye, H Zhou, L Xie, L Ma, J Zhao. [[PDF]](https://aclanthology.org/2025.acl-long.87.pdf)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2025</span> StableVC: Style Controllable Zero-Shot Voice Conversion with Conditional Flow Matching. J Yao, Y Yang, **Y Pan**, Z Ning, J Ye, H Zhou, L Xie. [[PDF]](https://arxiv.org/abs/2412.04724)
 
