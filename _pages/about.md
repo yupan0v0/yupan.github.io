@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- Yu Pan -->
-I am currently a second-year Ph.D. student in the School of Information Science and Electrical Engineering at Kyushu University, working under the supervision of Prof. [Jianjun Zhao](https://stap.ait.kyushu-u.ac.jp/~zhao/index.html) and Prof. [Lei Ma](https://www.malei.org/). Prior to this, I received my Master's degree from Beijing Institute of Technology and Bachelor's degree from Northeastern University in China.
+I am currently a last-year Ph.D. student in the School of Information Science and Electrical Engineering at Kyushu University, working under the supervision of Prof. [Jianjun Zhao](https://stap.ait.kyushu-u.ac.jp/~zhao/index.html) and Prof. [Lei Ma](https://www.malei.org/). Prior to this, I received my Master's degree from Beijing Institute of Technology and Bachelor's degree from Northeastern University in China.
 
 
 My research interests primarily focus on the speech processing systems. Besides, I am also interested in the Software Engineering (SE) support for complex AI-based systems (quality assurance for AI).
@@ -78,6 +78,9 @@ Zero-Shot Voice Conversion via Content-Aware Timbre Ensemble and Conditional Flo
 Takin-VC: Expressive Zero-Shot Voice Conversion via Adaptive Hybrid Content Encoding and Enhanced Timbre Modeling. Y Yang<sup>⭐</sup>, **Y Pan<sup>⭐</sup>**, J Yao<sup>⭐</sup>, X Zhang<sup>⭐</sup>, J Ye, H Zhou, L Xie, L Ma, J Zhao. [[PDF]](https://aclanthology.org/2025.acl-long.87.pdf)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2025</span> StableVC: Style Controllable Zero-Shot Voice Conversion with Conditional Flow Matching. J Yao, Y Yang, **Y Pan**, Z Ning, J Ye, H Zhou, L Xie. [[PDF]](https://arxiv.org/abs/2412.04724)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP</span> 
+Fine-grained Preference Optimization Improves Zero-shot Text-to-Speech. J Yao, Y Yang, Y Feng, **Y Pan**, Z Ning, J Ye, H Zhou, L Xie. [[PDF]](https://arxiv.org/pdf/2502.02950)
 
 
 
