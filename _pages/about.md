@@ -22,8 +22,6 @@ I received my Ph.D. in the School of Information Science and Electrical Engineer
 
 My research interests primarily focus on the speech processing systems. Besides, I am also interested in the Software Engineering (SE) support for complex AI-based systems (quality assurance for AI).
 
-My research interests lie in speech and multimodal processing, with a focus on speech-to-speech translation, voice conversion, expressive and emotional voice conversion, speechtokenizer, text-to-speech synthesis, speech emotion recognition, and automatic speech recognition. I am also interested in software engineering support for complex AI-based systems, especially quality assurance for AI.
-
 
 <!--
 # 🔍 Research Area
