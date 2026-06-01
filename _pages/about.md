@@ -18,22 +18,24 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- Yu Pan -->
-I am currently a last-year Ph.D. student in the School of Information Science and Electrical Engineering at Kyushu University, working under the supervision of Prof. [Jianjun Zhao](https://stap.ait.kyushu-u.ac.jp/~zhao/index.html) and Prof. [Lei Ma](https://www.malei.org/). Prior to this, I received my Master's degree from Beijing Institute of Technology and Bachelor's degree from Northeastern University in China.
-
+I received my Ph.D. in the School of Information Science and Electrical Engineering at Kyushu University, working under the supervision of Prof. [Jianjun Zhao](https://stap.ait.kyushu-u.ac.jp/~zhao/index.html) and Prof. [Lei Ma](https://www.malei.org/). Prior to this, I received my Master's degree from Beijing Institute of Technology and Bachelor's degree from Northeastern University in China.
 
 My research interests primarily focus on the speech processing systems. Besides, I am also interested in the Software Engineering (SE) support for complex AI-based systems (quality assurance for AI).
 
+My research interests lie in speech and multimodal processing, with a focus on speech-to-speech translation, voice conversion, expressive and emotional voice conversion, speechtokenizer, text-to-speech synthesis, speech emotion recognition, and automatic speech recognition. I am also interested in software engineering support for complex AI-based systems, especially quality assurance for AI.
+
+
 <!--
 # 🔍 Research Area
-**Speech Processing**: Speech Recognition, Speech Emotion Generation, Voice Conversion, Speech Generation
+**Speech Processing**: Aotumatic Speech Recognition, Speech Emotion Recognition, Expressive and Emotional Voice Conversion, Speech Generation, Speech-to-Speech Translation
 
-**Large Language Models**: Speech Tokenizer, Speech LLMs, Diffusion Models
+**Large Language Models**: SpeechTokenizer, Speech LLMs, Diffusion Models
 
 **Software Engineering**: Software Testing, Analysis, and Repair
  -->
 
 # 🔍 Research Area
-**SpeechLLM/Speech-to-Speech Translation**: [arxiv'25](https://arxiv.org/abs/2506.11160)
+**SpeechLLM/Speech-to-Speech Translation**: [arxiv'26](https://arxiv.org/pdf/2605.16026)[ACL Findings'26](https://arxiv.org/abs/2506.11160)
 
 **Emotional Speech Synthesis**: [INTERSPEECH'25](https://arxiv.org/pdf/2505.13805)
 
@@ -64,10 +66,15 @@ My research interests primarily focus on the speech processing systems. Besides,
 </div> -->
 
 
+2026:
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arxiv</span> 
+From Flat Language Labels to Typological Priors: Structured Language Conditioning for Multilingual Speech-to-Speech Translation. **Y Pan**, Y Hou, X Wu, L Zhang, Y Traon, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2605.16026)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Findings of ACL 2026</span> 
+S2ST-Omni: Hierarchical Language-Aware SpeechLLM Adaptation for Multilingual Speech-to-Speech Translation. **Y Pan**, X Wu, Y Yang, J Yao, M Cordy, L Ma, J Zhao. [[PDF]](https://arxiv.org/abs/2506.11160)
 
 2025:
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arixv 2025</span> 
-S2ST-Omni: An Efficient Multilingual Speech-to-Speech Translation Framework via Seamless Speech-Text Alignment and Progressive Fine-tuning. **Y Pan**, Yuguang Yang, L Ma, J Zhao. [[PDF]](https://arxiv.org/abs/2506.11160)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE SPL</span>
 Zero-Shot Voice Conversion via Content-Aware Timbre Ensemble and Conditional Flow Matching. **Y Pan**, Y Yang, J Yao, L Ma, J Zhao. [[PDF]](https://ieeexplore.ieee.org/document/11194707)
