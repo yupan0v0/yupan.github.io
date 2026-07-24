@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👋 About Me
+
 <!-- Yu Pan -->
 I obtained my Ph.D. (early completion) from the School of Information Science and Electrical Engineering at Kyushu University, where I was fortunate to be advised by Prof. [Jianjun Zhao](https://stap.ait.kyushu-u.ac.jp/~zhao/index.html) and Prof. [Lei Ma](https://www.malei.org/). Prior to that, I received my Master's degree from Beijing Institute of Technology and my Bachelor's degree from Northeastern University, China.
 
