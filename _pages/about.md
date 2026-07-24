@@ -20,7 +20,7 @@ redirect_from:
 # 👋 About Me
 
 <!-- Yu Pan -->
-Hello! I am PAN Yu (潘宇). I obtained my Ph.D. (early completion) from the School of Information Science and Electrical Engineering at Kyushu University, where I was fortunate to be advised by Prof. [Jianjun Zhao](https://stap.ait.kyushu-u.ac.jp/~zhao/index.html) and Prof. [Lei Ma](https://www.malei.org/). Prior to that, I received my Master's degree from Beijing Institute of Technology and my Bachelor's degree from Northeastern University, China.
+Hello! I am PAN Yu (潘宇). I obtained my Ph.D. (early completion) from the School of Information Science and Electrical Engineering at Kyushu University, where I was truly fortunate to be advised by Prof. [Jianjun Zhao](https://stap.ait.kyushu-u.ac.jp/~zhao/index.html) and Prof. [Lei Ma](https://www.malei.org/). Prior to that, I received my Master's degree from Beijing Institute of Technology and my Bachelor's degree from Northeastern University, China.
 
 My research journey began in computer vision: during my undergraduate and Master's studies, I worked on feature matching-based object tracking, and later on deep learning-based object detection and fine-grained recognition. During my Ph.D., my research shifted to **speech and language processing**, with a particular focus on expressive and controllable speech generation — spanning voice conversion, text-to-speech synthesis, speech tokenization, and SpeechLLM-based speech-to-speech translation. Building on this cross-modal background, I am now particularly excited about **multimodal and audio-visual learning**. In addition, I am also interested in Software Engineering (SE) support for complex AI-based systems (quality assurance for AI).
 
