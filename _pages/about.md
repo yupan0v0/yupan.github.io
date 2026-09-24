@@ -29,6 +29,8 @@ I am always open to research discussions and collaborations — feel free to rea
 
 # 🔥 News
 
+- *2026.09*: &nbsp;🎉 PromptCodec is accepted by **SLT 2026**!
+- *2026.09*: &nbsp;🎉 JAL-Turn is accepted by **NCMMSC 2026**!
 - *2026.05*: &nbsp;🎉 S2ST-Omni is accepted by **Findings of ACL 2026**!
 - *2026.03*: &nbsp;🎓 I successfully defended my Ph.D. thesis at Kyushu University (early completion)!
 - *2025.10*: &nbsp;🎉 CTEFM-VC is accepted by **IEEE Signal Processing Letters**!
@@ -61,11 +63,11 @@ B.Eng. in Electronic and Information Engineering
 
 **🎙️ Generative**
 
-- **Speech-to-Speech Translation (SpeechLLM)**: [arXiv'26](https://arxiv.org/pdf/2605.16026), S2ST-Omni ([ACL Findings'26](https://arxiv.org/abs/2506.11160))
+- **Speech-to-Speech Translation (SpeechLLM)**: [arXiv'26](https://arxiv.org/pdf/2605.16026), S2ST-Omni ([ACL Findings'26](https://aclanthology.org/2026.findings-acl.1004.pdf))
 - **Voice Conversion**:
   - *Zero-Shot Voice Conversion*: CTEFM-VC ([IEEE SPL'25](https://ieeexplore.ieee.org/document/11194707))
   - *Expressive Zero-Shot Voice Conversion*: Takin-VC ([ACL'25, Oral](https://aclanthology.org/2025.acl-long.87.pdf)), StableVC ([AAAI'25](https://arxiv.org/abs/2412.04724))
-  - *Flexible and Interpretable Emotional Voice Conversion*: ClapFM-EVC ([INTERSPEECH'25, Oral](https://arxiv.org/pdf/2505.13805))
+  - *Flexible and Interpretable Emotional Voice Conversion*: ClapFM-EVC ([INTERSPEECH'25, Oral](https://www.isca-archive.org/interspeech_2025/pan25b_interspeech.pdf))
   - *Flexible and Interpretable Stylistic Voice Conversion*: PromptVC ([ICASSP'24](https://arxiv.org/pdf/2309.09262))
 - **Speech Tokenization**: PSCodec/PromptCodec ([arXiv'24](https://arxiv.org/pdf/2404.02702))
 - **Text-to-Speech Synthesis**: FPO ([IEEE TASLP'25](https://ieeexplore.ieee.org/abstract/document/11316389)), Takin ([arXiv'24, technical report](https://arxiv.org/pdf/2409.12139))
@@ -74,7 +76,7 @@ B.Eng. in Electronic and Information Engineering
 **🧠 Discriminative**
 
 - **Automatic Speech Recognition**: HybridFormer ([ICASSP'23](https://ieeexplore.ieee.org/abstract/document/10096467)) — also serves as the content encoder for Takin-VC, CTEFM-VC, and ClapFM-EVC
-- **Speech Emotion Recognition**: GEmo-CLAP ([ICASSP'24](https://arxiv.org/pdf/2306.07848), which also provides the emotional natural-language prompt control interface for ClapFM-EVC); GMP-TL ([SLT'24](https://arxiv.org/abs/2405.02151)); MSAC ([arXiv'23](https://arxiv.org/pdf/2308.04025)); MuSe'23 winning solution ([ACM MM Workshop'23](https://dl.acm.org/doi/10.1145/3606039.3613109)) — 🏆 1st place in the MuSe 2023 Mimic Sub-challenge @ ACM MM
+- **Speech Emotion Recognition**: GEmo-CLAP ([ICASSP'24](https://ieeexplore.ieee.org/document/10448394), which also provides the emotional natural-language prompt control interface for ClapFM-EVC); GMP-TL ([SLT'24](https://ieeexplore.ieee.org/document/10832339)); MSAC ([arXiv'23](https://arxiv.org/pdf/2308.04025)); MuSe'23 winning solution ([ACM MM Workshop'23](https://dl.acm.org/doi/10.1145/3606039.3613109)) — 🏆 1st place in the MuSe 2023 Mimic Sub-challenge @ ACM MM
 
 **🔧 Others**
 
