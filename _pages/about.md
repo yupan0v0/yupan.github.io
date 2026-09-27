@@ -95,10 +95,10 @@ B.Eng. in Electronic and Information Engineering
 - <span style="display:inline-block; background-color:#6c757d; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px; border-radius:3px;">arXiv</span> 
 From Flat Language Labels to Typological Priors: Structured Language Conditioning for Multilingual Speech-to-Speech Translation. **Y Pan**, Y Hou, X Wu, L Zhang, Y Traon, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2605.16026)
 
-- <span style="display:inline-block; background-color:#6c757d; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px; border-radius:3px;">SLT 2026</span> 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px; border-radius:3px;">SLT 2026</span> 
 PromptCodec: High-Fidelity Low-Bitrate Neural Speech Codec Leveraging Prompt Encoders. **Y Pan**,  X Cai, X Zhang, Y Yang, J Yao, N Bai, L Ma, J Zhao, H Koide. [[PDF]](https://arxiv.org/pdf/2404.02702)
 
-- <span style="display:inline-block; background-color:#6c757d; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px; border-radius:3px;">NCMMSC 2026</span> 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px; border-radius:3px;">NCMMSC 2026</span> 
 JAL-Turn: Joint Acoustic–Linguistic Modeling for Real-Time and Robust Turn-Taking Detection in Full-Duplex Spoken Dialogue Systems. **Y Pan<sup>⭐</sup>**, G Yang<sup>⭐</sup>, M Huzaifah, S Qiu, N Bai. [[PDF]](https://arxiv.org/pdf/2603.26515)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px; border-radius:3px;">Findings of ACL 2026</span> 
