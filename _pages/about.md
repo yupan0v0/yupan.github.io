@@ -139,6 +139,9 @@ Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models. [[PDF]](
 - <span style="display:inline-block; background-color:#6c757d; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px; border-radius:3px;">arXiv 2024</span> 
 DPGAN: A Dual-Path Generative Adversarial Network for Missing Data Imputation in Graphs. X Zheng, Y Wu, **Y Pan**, W Lin, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2404.17164)
 
+- <span style="display:inline-block; background-color:#6c757d; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px; border-radius:3px;">arXiv 2024</span> 
+Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization. B Lin, Y Yu, J Ye, R Lv, Y Yang, R Xie, Y Pan, H Zhou. [[PDF]](https://arxiv.org/abs/2410.14283)
+
 
 2023:
 
