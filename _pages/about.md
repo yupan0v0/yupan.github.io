@@ -69,19 +69,20 @@ B.Eng. in Electronic and Information Engineering
   - *Expressive Zero-Shot Voice Conversion*: Takin-VC ([ACL'25, Oral](https://aclanthology.org/2025.acl-long.87.pdf)), StableVC ([AAAI'25](https://arxiv.org/abs/2412.04724))
   - *Flexible and Interpretable Emotional Voice Conversion*: ClapFM-EVC ([INTERSPEECH'25, Oral](https://www.isca-archive.org/interspeech_2025/pan25b_interspeech.pdf))
   - *Flexible and Interpretable Stylistic Voice Conversion*: PromptVC ([ICASSP'24](https://arxiv.org/pdf/2309.09262))
-- **Speech Tokenization**: PSCodec/PromptCodec ([arXiv'24](https://arxiv.org/pdf/2404.02702))
+- **Speech Tokenization**: PSCodec/PromptCodec ([SLT'26](https://arxiv.org/pdf/2404.02702))
 - **Text-to-Speech Synthesis**: FPO ([IEEE TASLP'25](https://ieeexplore.ieee.org/abstract/document/11316389)), Takin ([arXiv'24, technical report](https://arxiv.org/pdf/2409.12139))
 - **Speaker Anonymization**: MUSA ([IEEE TASLP'24](https://arxiv.org/pdf/2407.11629))
+- **Emotion-controllable Audio-driven Facial Animation**: Takin-ADA ([arXiv'24](https://arxiv.org/pdf/2410.14283))
 
 **🧠 Discriminative**
 
 - **Automatic Speech Recognition**: HybridFormer ([ICASSP'23](https://ieeexplore.ieee.org/abstract/document/10096467)) — also serves as the content encoder for Takin-VC, CTEFM-VC, and ClapFM-EVC
 - **Speech Emotion Recognition**: GEmo-CLAP ([ICASSP'24](https://ieeexplore.ieee.org/document/10448394), which also provides the emotional natural-language prompt control interface for ClapFM-EVC); GMP-TL ([SLT'24](https://ieeexplore.ieee.org/document/10832339)); MSAC ([arXiv'23](https://arxiv.org/pdf/2308.04025)); MuSe'23 winning solution ([ACM MM Workshop'23](https://dl.acm.org/doi/10.1145/3606039.3613109)) — 🏆 1st place in the MuSe 2023 Mimic Sub-challenge @ ACM MM
+- **Turn-taking Detection**: JAL-Turn ([NCMMSC'26](https://arxiv.org/pdf/2603.26515))
 
 **🔧 Others**
 
 - **Neural Network Quantization**: [DCC'24](https://ieeexplore.ieee.org/abstract/document/10533810)
-- **Audio-Driven Animation**: Takin-ADA ([arXiv'24](https://arxiv.org/pdf/2410.14283))
 - **Graph Learning**: DPGAN ([arXiv'24](https://arxiv.org/pdf/2404.17164))
 
 
@@ -93,6 +94,12 @@ B.Eng. in Electronic and Information Engineering
 
 - <span style="display:inline-block; background-color:#6c757d; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px; border-radius:3px;">arXiv</span> 
 From Flat Language Labels to Typological Priors: Structured Language Conditioning for Multilingual Speech-to-Speech Translation. **Y Pan**, Y Hou, X Wu, L Zhang, Y Traon, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2605.16026)
+
+- <span style="display:inline-block; background-color:#6c757d; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px; border-radius:3px;">SLT 2026</span> 
+PromptCodec: High-Fidelity Low-Bitrate Neural Speech Codec Leveraging Prompt Encoders. **Y Pan**,  X Cai, X Zhang, Y Yang, J Yao, N Bai, L Ma, J Zhao, H Koide. [[PDF]](https://arxiv.org/pdf/2404.02702)
+
+- <span style="display:inline-block; background-color:#6c757d; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px; border-radius:3px;">NCMMSC 2026</span> 
+JAL-Turn: Joint Acoustic–Linguistic Modeling for Real-Time and Robust Turn-Taking Detection in Full-Duplex Spoken Dialogue Systems. **Y Pan<sup>⭐</sup>**, G Yang<sup>⭐</sup>, M Huzaifah, S Qiu, N Bai. [[PDF]](https://arxiv.org/pdf/2603.26515)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px; border-radius:3px;">Findings of ACL 2026</span> 
 S2ST-Omni: Hierarchical Language-Aware SpeechLLM Adaptation for Multilingual Speech-to-Speech Translation. **Y Pan**, X Wu, Y Yang, J Yao, M Cordy, L Ma, J Zhao. [[PDF]](https://arxiv.org/abs/2506.11160)
@@ -128,9 +135,6 @@ MUSA: Multi-lingual Speaker Anonymization via Serial Disentanglement. J Yao, Q W
 
 - <span style="display:inline-block; background-color:#6c757d; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px; border-radius:3px;">arXiv 2024 (Technical Report)</span> 
 Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models. [[PDF]](https://arxiv.org/pdf/2409.12139)
-
-- <span style="display:inline-block; background-color:#6c757d; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px; border-radius:3px;">arXiv 2024</span> 
-PromptCodec: High-Fidelity Neural Speech Codec using Disentangled Representation Learning based Adaptive Feature-aware Prompt Encoders. **Y Pan**, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2404.02702)
 
 - <span style="display:inline-block; background-color:#6c757d; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px; border-radius:3px;">arXiv 2024</span> 
 DPGAN: A Dual-Path Generative Adversarial Network for Missing Data Imputation in Graphs. X Zheng, Y Wu, **Y Pan**, W Lin, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2404.17164)
