@@ -155,7 +155,7 @@ MSAC: Multiple Speech Attribute Control Method for Reliable Speech Emotion Recog
 
 
 # 💻 Internships
-- *2022.12 - 2023.10, Everest Team - Ximalaya, China.
+- *2022.12 - 2024.10, Everest Team - Ximalaya, China.
 - *2025.03 - 2026.03, Research Team - Recho, Japan.
 
 # 🏆 Honors & Awards
